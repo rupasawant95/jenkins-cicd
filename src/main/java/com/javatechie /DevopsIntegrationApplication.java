@@ -1,4 +1,4 @@
-package com.sureshrajuvetukuri;
+package com.rupalisawant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hi Friends Latest Devops Projects Uploaded Daily Based . LiKe & Share this video & also Subscribe";
+		return "Hi Friends this is Rupali Sawant";
 	}
 
 	public static void main(String[] args) {
