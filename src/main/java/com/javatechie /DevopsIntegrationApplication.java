@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hi Friends this is Rupali Sawant";
+		return "Hi Friends this is Rupali Sawant. Welcome to Jenkins DevOps Project";
 	}
 
 	public static void main(String[] args) {
